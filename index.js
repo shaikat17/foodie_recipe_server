@@ -1,5 +1,5 @@
 const express = require('express')
-const chefs = require('./public/chefs.json')
+const chefs = require('./data/chefs.json')
 const app = express()
 const port = 3000
 
