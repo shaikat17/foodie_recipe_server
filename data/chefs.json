@@ -1,51 +1,62 @@
 [
-    {
-      "id": 1,
-      "image": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-gestures-ok-holds-hand-straight-isolated-orange-wall_141793-33306.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-      "name": "John Smith",
-      "experience": 10,
-      "numRecipes": 50,
-      "likes": 500
-    },
-    {
-      "id": 2,
-      "image": "https://img.freepik.com/free-photo/pleased-young-male-cook-chef-uniform-showing-empty-hand-doing-ok-sign-isolated-orange-space_141793-44752.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-      "name": "Jane Doe",
-      "experience": 15,
-      "numRecipes": 75,
-      "likes": 800
-    },
-    {
-      "id": 3,
-      "image": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-keeps-fist-up-isolated-orange-wall_141793-33509.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-      "name": "Mike Johnson",
-      "experience": 20,
-      "numRecipes": 100,
-      "likes": 1200
-    },
-    {
-      "id": 4,
-      "image": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands_141793-81464.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-      "name": "Samantha Lee",
-      "experience": 5,
-      "numRecipes": 25,
-      "likes": 250
-    },
-    {
-      "id": 5,
-      "image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-      "name": "Alexandra Kim",
-      "experience": 7,
-      "numRecipes": 30,
-      "likes": 350
-    },
-    {
-      "id": 6,
-      "image": "https://img.freepik.com/free-photo/indian-man-mountains-male-traditional-turban-hinduist-with-special-things-rituals_1157-41084.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-      "name": "William Brown",
-      "experience": 12,
-      "numRecipes": 60,
-      "likes": 700
-    }
-  ]
-  
+  {
+    "id": 1,
+    "image": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-gestures-ok-holds-hand-straight-isolated-orange-wall_141793-33306.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
+    "name": "John Smith",
+    "experience": 10,
+    "numRecipes": 50,
+    "likes": 500,
+    "bio": "John Smith has been a professional chef for over 10 years, specializing in French cuisine. He has worked in some of the most prestigious restaurants in Paris and has won several awards for his culinary skills.",
+    "recipes": [1, 4, 9, 2, 7, 5]
+  },
+  {
+    "id": 2,
+    "image": "https://img.freepik.com/free-photo/pleased-young-male-cook-chef-uniform-showing-empty-hand-doing-ok-sign-isolated-orange-space_141793-44752.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
+    "name": "Jane Doe",
+    "experience": 15,
+    "numRecipes": 75,
+    "likes": 800,
+    "bio": "Jane Doe is a self-taught chef who has been experimenting with different cuisines for over 15 years. She loves to travel and draw inspiration from different cultures to create unique and flavorful dishes.",
+    "recipes": [3, 6, 8, 5]
+  },
+  {
+    "id": 3,
+    "image": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-keeps-fist-up-isolated-orange-wall_141793-33509.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
+    "name": "Mike Johnson",
+    "experience": 20,
+    "numRecipes": 100,
+    "likes": 1200,
+    "bio": "Mark Johnson is a veteran chef with over 20 years of experience. He has worked in some of the most iconic restaurants in the world and has trained many successful chefs. He is a firm believer in using only the freshest and highest quality ingredients in his cooking.",
+    "recipes": [2, 6, 7, 1, 10]
+  },
+  {
+    "id": 4,
+    "image": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands_141793-81464.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
+    "name": "Samantha Lee",
+    "experience": 5,
+    "numRecipes": 25,
+    "likes": 250,
+    "bio": "Emily Lee is a young and talented chef who has already made a name for herself in the culinary world. She specializes in vegan and vegetarian cuisine and is passionate about creating healthy and sustainable dishes.",
+    "recipes": [4, 8, 3, 1, 9, 6]
+  },
+  {
+    "id": 5,
+    "image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
+    "name": "Alexandra Kim",
+    "experience": 7,
+    "numRecipes": 30,
+    "likes": 350,
+    "bio": "David Chen is a versatile chef who can whip up anything from classic Italian dishes to modern fusion cuisine. He has worked in restaurants all over the world and is constantly learning and evolving his culinary skills.",
+    "recipes": [2, 10, 7, 5]
+  },
+  {
+    "id": 6,
+    "image": "https://img.freepik.com/free-photo/indian-man-mountains-male-traditional-turban-hinduist-with-special-things-rituals_1157-41084.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
+    "name": "William Brown",
+    "experience": 12,
+    "numRecipes": 60,
+    "likes": 700,
+    "bio": "Amy Rodriguez is a pastry chef extraordinaire who has a passion for creating beautiful and delicious desserts. She has worked in some of the best pastry kitchens in the world and has won numerous awards for her creations.",
+    "recipes": [9, 4, 2, 6, 8]
+  }
+]
