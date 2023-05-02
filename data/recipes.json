@@ -5,7 +5,7 @@
     "ingredients": ["chicken", "tomato", "butter", "cream", "spices"],
     "ratings": 4.5,
     "image": "https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "method": "1. Marinate chicken in yogurt and spices. \n2. Grill chicken until cooked through. \n3. Simmer tomato sauce with butter and cream. \n4. Add cooked chicken to the sauce and simmer until heated through. \n5. Serve with rice or naan."
+    "method": "1. Marinate chicken in yogurt and spices. <br />2. Grill chicken until cooked through. <br />3. Simmer tomato sauce with butter and cream. <br />4. Add cooked chicken to the sauce and simmer until heated through. <br />5. Serve with rice or naan."
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "ingredients": ["spinach", "paneer", "tomato", "onion", "spices"],
     "ratings": 4.3,
     "image": "https://img.freepik.com/free-photo/flat-lay-pakistani-food-arrangement_23-2148825110.jpg?size=626&ext=jpg&ga=GA1.1.330625536.1683021513&semt=ais",
-    "method": "1. Blanch spinach and puree. \n2. Saute onions and tomatoes in oil. \n3. Add spices and pureed spinach to the pan. \n4. Add cubed paneer and simmer until heated through. \n5. Serve with rice or naan."
+    "method": "1. Blanch spinach and puree. <br />2. Saute onions and tomatoes in oil. <br />3. Add spices and pureed spinach to the pan. <br />4. Add cubed paneer and simmer until heated through. <br />5. Serve with rice or naan."
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "ingredients": ["chickpeas", "tomato", "onion", "spices", "cilantro"],
     "ratings": 4.0,
     "image": "https://img.freepik.com/free-photo/traditional-indian-soup-lentils-indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18717.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "method": "1. Saute onions in oil until softened. \n2. Add spices and chickpeas to the pan. \n3. Add tomatoes and simmer until heated through. \n4. Garnish with chopped cilantro. \n5. Serve with rice or naan."
+    "method": "1. Saute onions in oil until softened. <br />2. Add spices and chickpeas to the pan. <br />3. Add tomatoes and simmer until heated through. <br />4. Garnish with chopped cilantro. <br />5. Serve with rice or naan."
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "ingredients": ["potatoes", "cauliflower", "tomato", "spices", "ginger"],
     "ratings": 4.2,
     "image": "https://img.freepik.com/free-photo/front-view-tasty-meat-soup-with-potatoes-greens-dark-desk-meal-meat-dish-sauce_140725-79116.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "method": "1. Parboil potatoes and cauliflower. \n2. Saute ginger and spices in oil. \n3. Add potatoes and cauliflower to the pan. \n4. Add tomatoes and simmer until heated through. \n5. Serve with rice or naan."
+    "method": "1. Parboil potatoes and cauliflower. <br />2. Saute ginger and spices in oil. <br />3. Add potatoes and cauliflower to the pan. <br />4. Add tomatoes and simmer until heated through. <br />5. Serve with rice or naan."
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "ingredients": ["potatoes", "peas", "flour", "spices", "oil"],
     "ratings": 4.7,
     "image": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10159.jpg?size=626&ext=jpg&ga=GA1.1.330625536.1683021513&semt=sph",
-    "method": "1. Make dough with flour and water. \n2. Boil potatoes and peas and mash with spices. \n3. Roll out dough and cut into circles. \n4. Fill each circle with potato mixture and fold into triangles. \n5. Fry samosas in oil until golden brown."
+    "method": "1. Make dough with flour and water. <br />2. Boil potatoes and peas and mash with spices. <br />3. Roll out dough and cut into circles. <br />4. Fill each circle with potato mixture and fold into triangles. <br />5. Fry samosas in oil until golden brown."
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     ],
     "ratings": 4.4,
     "image": "https://img.freepik.com/free-photo/indian-dhal-spicy-curry-bowl-spices-herbs-rustic-black-wooden-table_2829-18712.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "method": "1. Soak lentils and kidney beans overnight. \n2. Cook lentils and beans until tender. \n3. Saute onion and tomato in oil. \n4. Add spices and cooked lentils and beans to the pan. \n5. Simmer for a few minutes, then add cream. \n6. Serve with rice or naan."
+    "method": "1. Soak lentils and kidney beans overnight. <br />2. Cook lentils and beans until tender. <br />3. Saute onion and tomato in oil. <br />4. Add spices and cooked lentils and beans to the pan. <br />5. Simmer for a few minutes, then add cream. <br />6. Serve with rice or naan."
   },
   {
     "id": 7,
@@ -59,7 +59,7 @@
     "ingredients": ["chicken", "rice", "onion", "spices", "yogurt"],
     "ratings": 4.6,
     "image": "https://img.freepik.com/free-photo/top-close-up-view-spices-appetizing-pilaf-cutting-board-colorful-spices-board_140725-78731.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "method": "1. Marinate chicken in yogurt and spices. \n2. Cook rice with spices and set aside. \n3. Saute onions until caramelized. \n4. Layer rice and chicken in a baking dish, with onions in between. \n5. Bake until chicken is cooked through. \n6. Serve with raita and chutney."
+    "method": "1. Marinate chicken in yogurt and spices. <br />2. Cook rice with spices and set aside. <br />3. Saute onions until caramelized. <br />4. Layer rice and chicken in a baking dish, with onions in between. <br />5. Bake until chicken is cooked through. <br />6. Serve with raita and chutney."
   },
   {
     "id": 8,
@@ -67,7 +67,7 @@
     "ingredients": ["paneer", "bell peppers", "onion", "spices", "yogurt"],
     "ratings": 4.3,
     "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili-top-view_2829-19996.jpg?size=626&ext=jpg&ga=GA1.1.330625536.1683021513&semt=ais",
-    "method": "1. Marinate paneer, bell peppers, and onions in yogurt and spices. \n2. Grill until cooked through. \n3. Serve with mint chutney."
+    "method": "1. Marinate paneer, bell peppers, and onions in yogurt and spices. <br />2. Grill until cooked through. <br />3. Serve with mint chutney."
   },
   {
     "id": 9,
@@ -75,7 +75,7 @@
     "ingredients": ["milk powder", "flour", "sugar", "cardamom", "rose water"],
     "ratings": 4.8,
     "image": "https://img.freepik.com/free-photo/dried-apricots-light-concrete_114579-4148.jpg?size=626&ext=jpg&ga=GA1.1.330625536.1683021513&semt=ais",
-    "method": "1. Mix milk powder, flour, and a pinch of baking soda. \n2. Add water to make a dough. \n3. Form dough into balls and fry in oil until golden brown. \n4. Make sugar syrup with cardamom and rose water. \n5. Soak fried balls in syrup for a few minutes. \n6. Serve warm."
+    "method": "1. Mix milk powder, flour, and a pinch of baking soda. <br />2. Add water to make a dough. <br />3. Form dough into balls and fry in oil until golden brown. <br />4. Make sugar syrup with cardamom and rose water. <br />5. Soak fried balls in syrup for a few minutes. <br />6. Serve warm."
   },
   {
     "id": 10,
@@ -83,6 +83,6 @@
     "ingredients": ["tea leaves", "milk", "ginger", "cardamom", "cinnamon"],
     "ratings": 4.2,
     "image": "https://img.freepik.com/free-photo/high-angle-delicious-indian-drink_23-2149312361.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "method": "1. Boil water with tea leaves and spices. \n2. Add milk and simmer for a few minutes. \n3. Strain and serve hot."
+    "method": "1. Boil water with tea leaves and spices. <br />2. Add milk and simmer for a few minutes. <br />3. Strain and serve hot."
   }
 ]
