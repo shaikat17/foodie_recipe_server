@@ -2,6 +2,9 @@ const express = require('express')
 const chefs = require('./data/chefs.json')
 const app = express()
 const port = 3000
+const cors = require("cors")
+
+app.use(cors())
 
 app.get('/', (req, res) => {
   res.send('Hello World!')
