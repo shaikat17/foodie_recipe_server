@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": "https://img.freepik.com/free-photo/young-pleased-afro-american-cook-chef-uniform-gestures-ok-holds-hand-straight-isolated-orange-wall_141793-33306.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "name": "John Smith",
+    "name": "Amrit Saha",
     "experience": 10,
     "numRecipes": 50,
     "likes": 500,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "image": "https://img.freepik.com/free-photo/pleased-young-male-cook-chef-uniform-showing-empty-hand-doing-ok-sign-isolated-orange-space_141793-44752.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "name": "Jane Doe",
+    "name": "Saiful Islam",
     "experience": 15,
     "numRecipes": 75,
     "likes": 800,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "image": "https://img.freepik.com/free-photo/young-smiling-caucasian-cook-girl-chef-uniform-keeps-fist-up-isolated-orange-wall_141793-33509.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "name": "Mike Johnson",
+    "name": "Mina Kumari",
     "experience": 20,
     "numRecipes": 100,
     "likes": 1200,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "image": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "name": "Alexandra Kim",
+    "name": "Alexandra Kum",
     "experience": 7,
     "numRecipes": 30,
     "likes": 350,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "image": "https://img.freepik.com/free-photo/indian-man-mountains-male-traditional-turban-hinduist-with-special-things-rituals_1157-41084.jpg?size=626&ext=jpg&ga=GA1.2.330625536.1683021513&semt=ais",
-    "name": "William Brown",
+    "name": "Jagat Lal Sing",
     "experience": 12,
     "numRecipes": 60,
     "likes": 700,
